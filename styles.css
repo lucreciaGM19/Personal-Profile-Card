@@ -137,14 +137,14 @@ body {
 
 .skill-item:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 16px rgba(25, 118, 210, 0.2);
+    box-shadow: 0 8px 16px rgba(149, 134, 52, 0.81);
     background: linear-gradient(135deg, #bbdefb 0%, #90caf9 100%);
 }
 
 .skill-name {
     font-size: 16px;
     font-weight: 500;
-    color: #1976d2;
+    color: #3b0014;
 }
 
 /* ===== SECCIONES DE FAVORITOS ===== */
@@ -167,7 +167,7 @@ body {
     color: #424242;
     font-weight: 400;
     transition: all 0.3s ease;
-    border-left: 4px solid #1976d2;
+    border-left: 4px solid #b15542;
 }
 
 .favorite-item:hover {
@@ -178,7 +178,7 @@ body {
 /* ===== FOOTER ===== */
 .footer {
     text-align: center;
-    color: rgba(255, 255, 255, 0.8);
+    color: #f8f0d0(255, 255, 255, 0.8);
     font-size: 14px;
     font-weight: 300;
 }
